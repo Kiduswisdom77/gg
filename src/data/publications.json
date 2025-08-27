@@ -2,45 +2,43 @@
   {
     "id": "1",
     "title": "AmharicBERT: Transformer-based Language Model for Amharic",
-    "authors": "Gebremedhin Haile.",
+    "authors": ["Gebremedhin Haile"],
     "venue": "Proceedings of the AfricaNLP Workshop, ICLR 2023",
+    "journal": "AfricaNLP Workshop, ICLR",
     "year": 2023,
-    "type": "conference",
+    "type": "Conference Paper",
     "doi": "https://doi.org/10.1234/amharicbert.2023",
-    "abstract": "We present AmharicBERT, the first large-scale pretrained language model for Amharic, demonstrating state-of-the-art performance on various NLP tasks including text classification, named entity recognition, and question answering.",
-    "tags": ["NLP", "Transformers", "Amharic", "BERT"],
+    "abstract": "AmharicBERT is the first large-scale pretrained language model for Amharic, achieving state-of-the-art results on text classification, named entity recognition, and question answering. It leverages the power of transformers for low-resource NLP applications.",
+    "keywords": ["NLP", "Transformers", "Amharic", "BERT", "Low-Resource Languages"],
     "links": [
-      {
-        "type": "PDF",
-        "url": "/documents/amharicbert.pdf"
-      },
-      {
-        "type": "Code",
-        "url": "https://github.com/gghaile/amharicbert"
-      },
-      {
-        "type": "Dataset",
-        "url": "https://huggingface.co/datasets/gghaile/amharic-corpus"
-      }
+      { "label": "PDF", "url": "/documents/amharicbert.pdf" },
+      { "label": "Code", "url": "https://github.com/gghaile/amharicbert" },
+      { "label": "Dataset", "url": "https://huggingface.co/datasets/gghaile/amharic-corpus" }
     ],
-    "featured": true
+    "featured": true,
+    "coverImage": "/images/amharicbert-cover.png",
+    "impact": "High",
+    "readTime": "5 min"
   },
   {
     "id": "2",
     "title": "Machine Translation for Ethiopian Languages: Challenges and Opportunities",
-    "authors": "Ghaile, G., Mengistu, A.",
+    "authors": ["Ghaile, G.", "Mengistu, A."],
     "venue": "Journal of African Computational Linguistics, 12(2)",
+    "journal": "Journal of African Computational Linguistics",
     "year": 2022,
-    "type": "journal",
+    "type": "Journal Article",
     "doi": "https://doi.org/10.5678/ethio-mt.2022",
-    "abstract": "This paper surveys the current state of machine translation for Ethiopian languages, identifying key challenges related to data scarcity, linguistic diversity, and computational resources, while proposing practical solutions and research directions.",
-    "tags": ["Machine Translation", "Ethiopian Languages", "Low-Resource NLP"],
+    "abstract": "This survey highlights challenges in machine translation for Ethiopian languages, including data scarcity and linguistic diversity, while proposing strategies for scalable low-resource NLP systems.",
+    "keywords": ["Machine Translation", "Ethiopian Languages", "Low-Resource NLP", "Survey"],
     "links": [
-      {
-        "type": "PDF",
-        "url": "/documents/ethiopian-mt.pdf"
-      }
+      { "label": "PDF", "url": "/documents/ethiopian-mt.pdf" },
+      { "label": "Code", "url": "" },
+      { "label": "Dataset", "url": "" }
     ],
-    "featured": true
+    "featured": true,
+    "coverImage": "/images/ethiopian-mt-cover.png",
+    "impact": "Medium",
+    "readTime": "7 min"
   }
 ]

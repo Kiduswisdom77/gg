@@ -14,7 +14,7 @@ export default function About() {
           <div className="flex flex-col md:flex-row gap-8 items-center mb-12">
             <div className="relative w-48 h-48 md:w-64 md:h-64 flex-shrink-0">
               <Image
-                src="/images/profile.jpg"
+                src="/images/hh1.jpeg"
                 alt={bio.name}
                 fill
                 className="rounded-full object-cover border-4 border-primary-100"
