@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "AmharicBERT: Transformer-based Language Model for Amharic",
+    "authors": "Gebremedhin Haile.",
+    "venue": "Proceedings of the AfricaNLP Workshop, ICLR 2023",
+    "year": 2023,
+    "type": "conference",
+    "doi": "https://doi.org/10.1234/amharicbert.2023",
+    "abstract": "We present AmharicBERT, the first large-scale pretrained language model for Amharic, demonstrating state-of-the-art performance on various NLP tasks including text classification, named entity recognition, and question answering.",
+    "tags": ["NLP", "Transformers", "Amharic", "BERT"],
+    "links": [
+      {
+        "type": "PDF",
+        "url": "/documents/amharicbert.pdf"
+      },
+      {
+        "type": "Code",
+        "url": "https://github.com/gghaile/amharicbert"
+      },
+      {
+        "type": "Dataset",
+        "url": "https://huggingface.co/datasets/gghaile/amharic-corpus"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Machine Translation for Ethiopian Languages: Challenges and Opportunities",
+    "authors": "Ghaile, G., Mengistu, A.",
+    "venue": "Journal of African Computational Linguistics, 12(2)",
+    "year": 2022,
+    "type": "journal",
+    "doi": "https://doi.org/10.5678/ethio-mt.2022",
+    "abstract": "This paper surveys the current state of machine translation for Ethiopian languages, identifying key challenges related to data scarcity, linguistic diversity, and computational resources, while proposing practical solutions and research directions.",
+    "tags": ["Machine Translation", "Ethiopian Languages", "Low-Resource NLP"],
+    "links": [
+      {
+        "type": "PDF",
+        "url": "/documents/ethiopian-mt.pdf"
+      }
+    ],
+    "featured": true
+  }
+]

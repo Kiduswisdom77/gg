@@ -1,0 +1,57 @@
+{
+  "name": "Gebremedhin Gebremeskel Haile",
+  "title": "Lecturer & International Researcher",
+  "company": "Arizona University",
+  "location": "New York, USA",
+  "email": "info@gghaile.com",
+  "bio": "I'm a passionate researcher with expertise in International, I enjoy building solutions that solve real-world problems. With a strong background in NLP and Machine Learning.",
+  "education": [
+    {
+      "degree": "MSc in Computer Science",
+      "institution": "Arizona University",
+      "years": "2023-Present",
+      "thesis": "Advanced Researcher in Geographical Engineering"
+    },
+    {
+      "degree": "Post Doc in Geographical Engineering",
+      "institution": "UCAS, China",
+      "years": "2016-2020"
+    }
+  ],
+  "researchInterests": [
+    "International",
+    "Environmental Sustainability",
+    "Geographical Engineering",
+    "Climate Change",
+    "Remote Sensing",
+    "GIS"
+    
+  ],
+  "skills": [
+    "JavaScript/TypeScript",
+    "React/Next.js",
+    "Node.js",
+    "Python",
+    "Machine Learning",
+    "Cloud Computing (AWS)",
+    "Docker",
+    "PostgreSQL"
+  ],
+  "social": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/gghaile",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/in/gghaile",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gghaile",
+      "icon": "twitter"
+    }
+  ]
+}

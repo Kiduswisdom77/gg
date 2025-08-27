@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "International Researcher",
+    "description": "A International Researcher, Climate Change, Remote Sensing, and world economics.",
+    "image": "/images/projects/gg.jpg",
+    "technologies": ["React", "Python", "PostgreSQL", "Stripe"],
+    "githubUrl": "https://github.com/gghaile/gghaile",
+    "liveUrl": "https://www.gghaile.com",
+    "featured": true,
+    "period": "2023",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "title": "We Analyze Climate",
+    "description": "A word climate change analysis tool that uses NLP techniques to analyze and visualize sentiment trends in social media data related to environmental issues.",
+    "image": "/images/projects/gg.jpg",
+    "technologies": ["Python", "TensorFlow", "NLP", "Flask"],
+    "githubUrl": "https://github.com/gghaile/sentiment-analysis",
+    "liveUrl": null,
+    "featured": true,
+    "period": "2022",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+    "image": "/",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "WebSockets"],
+    "githubUrl": "https://github.com/gghaile/task-manager",
+    "liveUrl": "https://tasks.gghaile.com",
+    "featured": false,
+    "period": "2023",
+    "status": "Active"
+  }
+]
