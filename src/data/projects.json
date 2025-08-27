@@ -3,7 +3,7 @@
     "id": 1,
     "title": "International Researcher",
     "description": "A International Researcher, Climate Change, Remote Sensing, and world economics.",
-    "image": "/images/projects/gg.jpg",
+    "image": "/images/projects/hh1.jpeg",
     "technologies": ["React", "Python", "PostgreSQL", "Stripe"],
     "githubUrl": "https://github.com/gghaile/gghaile",
     "liveUrl": "https://www.gghaile.com",
@@ -15,7 +15,7 @@
     "id": 2,
     "title": "We Analyze Climate",
     "description": "A word climate change analysis tool that uses NLP techniques to analyze and visualize sentiment trends in social media data related to environmental issues.",
-    "image": "/images/projects/gg.jpg",
+    "image": "/images/projects/gg2.jpg",
     "technologies": ["Python", "TensorFlow", "NLP", "Flask"],
     "githubUrl": "https://github.com/gghaile/sentiment-analysis",
     "liveUrl": null,
@@ -34,5 +34,19 @@
     "featured": false,
     "period": "2023",
     "status": "Active"
+  },
+  { 
+ "id": 4,
+    "title": "International Researcher",
+    "description": "A International Researcher, Climate Change, Remote Sensing, and world economics.",
+    "image": "/images/projects/hh.jpg",
+    "technologies": ["React", "Python", "PostgreSQL", "Stripe"],
+    "githubUrl": "https://github.com/gghaile/gghaile",
+    "liveUrl": "https://www.gghaile.com",
+    "featured": true,
+    "period": "2023",
+    "status": "Completed"
+
   }
+  
 ]
